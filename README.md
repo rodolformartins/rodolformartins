@@ -1,6 +1,3 @@
-### Olá, sou o Rodolfo R. Martins
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Java POO.
 - 📫 How to reach me: rodolformartins1@gmail.com
