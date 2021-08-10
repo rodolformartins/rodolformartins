@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/rodolformartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolformartins&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolformartins&layout=compact&langs_count=7&theme=light"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolformartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolformartins&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 
 
