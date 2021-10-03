@@ -1,5 +1,4 @@
 
-- 🌱 I’m currently learning Java.
 - 📫 How to reach me: rodolformartins1@gmail.com
 
 <div>
