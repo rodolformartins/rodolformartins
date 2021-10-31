@@ -1,11 +1,7 @@
 
 - 📫 How to reach me: rodolformartins1@gmail.com
 
-<div>
-  <a href="https://github.com/rodolformartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodolformartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolformartins&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
+
 
 
 <div style="display: inline_block">
@@ -20,7 +16,6 @@
   <br>
   <br>
 
-  
        
  <div> 
   <a href = "mailto:rodolformartins1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
